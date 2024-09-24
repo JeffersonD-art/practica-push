@@ -1,1 +1,5 @@
 creamos un archivo en remoto para entender git fetch
+
+creamos nueva funcionalidad
+
+se crea segun funcionalidad
